@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Display-and-Sort-Coupons/static/css/main.b10c2d25.chunk.css",
+    "main.js": "/Display-and-Sort-Coupons/static/js/main.b326abea.chunk.js",
+    "main.js.map": "/Display-and-Sort-Coupons/static/js/main.b326abea.chunk.js.map",
+    "runtime-main.js": "/Display-and-Sort-Coupons/static/js/runtime-main.01407897.js",
+    "runtime-main.js.map": "/Display-and-Sort-Coupons/static/js/runtime-main.01407897.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Display-and-Sort-Coupons/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.3897fcaf.chunk.js": "/Display-and-Sort-Coupons/static/js/2.3897fcaf.chunk.js",
+    "static/js/2.3897fcaf.chunk.js.map": "/Display-and-Sort-Coupons/static/js/2.3897fcaf.chunk.js.map",
+    "index.html": "/Display-and-Sort-Coupons/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Display-and-Sort-Coupons/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.b10c2d25.chunk.css.map": "/Display-and-Sort-Coupons/static/css/main.b10c2d25.chunk.css.map",
+    "static/js/2.3897fcaf.chunk.js.LICENSE.txt": "/Display-and-Sort-Coupons/static/js/2.3897fcaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01407897.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.3897fcaf.chunk.js",
+    "static/css/main.b10c2d25.chunk.css",
+    "static/js/main.b326abea.chunk.js"
+  ]
+}
